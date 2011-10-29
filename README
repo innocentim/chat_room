@@ -10,5 +10,5 @@ In client.py, I've implemented the simplest interactive way to communicate with 
 more clearly, protocol.py defines the operations of the protocol(enum --- not pythonic= =?)
 There is nothing important in misc.py, true.
 
-If you want more, please READ THE FUCKING SOURCE CODE!
+If you want more, please stop reading and forget it! the source code is terrible!
 
