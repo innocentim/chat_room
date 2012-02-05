@@ -169,7 +169,7 @@ import sys
 HOST, PORT = "0.0.0.0", 9998
 DB_HOST = "127.0.0.1"
 DB_SOCK = "/var/run/mysqld/mysqld.sock"
-DB_USER = "test"
+DB_USER = "root"
 DB_PASSWD = ""
 DB_DBNAME = "chat"
 clients = {}
