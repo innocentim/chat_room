@@ -1,4 +1,5 @@
 ##just for fun
+
 I'm intended to write an online foo framework, where foo may be "chatting", "game", or others.
 
 C/S model, mysql as the database.
